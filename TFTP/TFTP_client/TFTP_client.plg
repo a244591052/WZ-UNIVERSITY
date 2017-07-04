@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TFTP_client - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP7478.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/TFTP_client.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\新建文件夹\TFTP敲定\TFTP_client\TFTP_clientDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP7478.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/TFTP_client.pdb" /debug /machine:I386 /out:"Debug/TFTP_client.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\TFTP_client.obj" ".\Debug\TFTP_clientDlg.obj" ".\Debug\TFTP_client.res" "
+<h3>Output Window</h3>
+Compiling...
+TFTP_clientDlg.cpp
+c:\users\administrator\desktop\新建文件夹\tftp敲定\tftp_client\makepack.h(12) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+c:\users\administrator\desktop\新建文件夹\tftp敲定\tftp_client\makepack.h(56) : error C2065: 'sprintf_s' : undeclared identifier
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+TFTP_client.exe - 1 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

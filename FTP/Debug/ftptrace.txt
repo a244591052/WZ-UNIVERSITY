@@ -1,0 +1,1096 @@
+01/03/2017 10:27:01.834 *** START OF APPLICATION ***
+01/03/2017 10:27:06.330 *** END OF APPLICATION ***
+01/03/2017 10:28:11.437 *** START OF APPLICATION ***
+01/03/2017 10:28:25.599 *** END OF APPLICATION ***
+01/03/2017 10:28:28.187 *** START OF APPLICATION ***
+01/03/2017 10:28:58.590 *** START OF APPLICATION ***
+01/03/2017 10:30:05.399 *** START OF APPLICATION ***
+01/03/2017 10:31:03.168 *** START OF APPLICATION ***
+01/03/2017 10:31:12.647 *** START OF APPLICATION ***
+01/03/2017 10:32:47.204 *** START OF APPLICATION ***
+01/03/2017 10:34:58.718 *** START OF APPLICATION ***
+01/03/2017 10:35:27.543 *** END OF APPLICATION ***
+01/03/2017 10:36:14.976 *** START OF APPLICATION ***
+01/03/2017 10:36:19.727 *** END OF APPLICATION ***
+01/03/2017 10:36:33.249 *** START OF APPLICATION ***
+01/03/2017 10:37:44.675 *** END OF APPLICATION ***
+01/03/2017 10:37:46.986 *** START OF APPLICATION ***
+01/03/2017 10:37:51.378 *** END OF APPLICATION ***
+01/03/2017 10:38:02.312 *** START OF APPLICATION ***
+01/03/2017 10:39:13.317 *** END OF APPLICATION ***
+01/03/2017 10:39:15.730 *** START OF APPLICATION ***
+01/03/2017 10:40:15.020 *** END OF APPLICATION ***
+01/03/2017 10:40:18.502 *** START OF APPLICATION ***
+01/03/2017 10:40:34.329 *** END OF APPLICATION ***
+01/03/2017 10:40:40.527 *** START OF APPLICATION ***
+01/03/2017 10:41:19.103 *** END OF APPLICATION ***
+01/03/2017 10:41:26.303 *** START OF APPLICATION ***
+01/03/2017 10:41:29.002 *** END OF APPLICATION ***
+01/03/2017 10:43:28.405 *** START OF APPLICATION ***
+01/03/2017 10:43:30.821 *** END OF APPLICATION ***
+01/03/2017 10:43:40.590 *** START OF APPLICATION ***
+01/03/2017 10:43:49.460 FTP Server started on port 21.
+01/03/2017 10:43:55.125 [8136] Client connected from 10.132.254.115.
+01/03/2017 10:43:55.126 [8136] 220 welcome
+01/03/2017 10:43:55.126 [8136] USER anonymous
+01/03/2017 10:43:55.134 [8136] 331 User name ok,need password.
+01/03/2017 10:43:55.134 [8136] PASS 123
+01/03/2017 10:43:55.135 [8136] 530 Not logged in,user or password incorrect!
+01/03/2017 10:43:55.147 [8136] Client disconnected from 10.132.254.115.
+01/03/2017 10:43:58.688 [7152] Client connected from 10.132.254.115.
+01/03/2017 10:43:58.689 [7152] 220 welcome
+01/03/2017 10:43:58.689 [7152] USER admin
+01/03/2017 10:43:58.693 [7152] 331 User name ok,need password.
+01/03/2017 10:43:58.693 [7152] PASS 123
+01/03/2017 10:43:58.693 [7152] 530 Not logged in,user or password incorrect!
+01/03/2017 10:43:58.706 [7152] Client disconnected from 10.132.254.115.
+01/03/2017 10:44:20.764 [7828] Client connected from 10.132.254.115.
+01/03/2017 10:44:20.764 [7828] 220 welcome
+01/03/2017 10:44:20.765 [7828] USER admin
+01/03/2017 10:44:20.767 [7828] 331 User name ok,need password.
+01/03/2017 10:44:20.767 [7828] PASS 123
+01/03/2017 10:44:20.768 [7828] 530 Not logged in,user or password incorrect!
+01/03/2017 10:44:20.776 [7828] Client disconnected from 10.132.254.115.
+01/03/2017 10:44:24.087 [4508] Client connected from 10.132.254.115.
+01/03/2017 10:44:24.087 [4508] 220 welcome
+01/03/2017 10:44:24.087 [4508] USER anonymous
+01/03/2017 10:44:24.088 [4508] 331 User name ok,need password.
+01/03/2017 10:44:24.089 [4508] PASS 123
+01/03/2017 10:44:24.089 [4508] 530 Not logged in,user or password incorrect!
+01/03/2017 10:44:24.093 [4508] Client disconnected from 10.132.254.115.
+01/03/2017 10:44:26.999 [7224] Client connected from 10.132.254.115.
+01/03/2017 10:44:27.000 [7224] 220 welcome
+01/03/2017 10:44:27.000 [7224] USER admin
+01/03/2017 10:44:27.003 [7224] 331 User name ok,need password.
+01/03/2017 10:44:27.003 [7224] PASS 123
+01/03/2017 10:44:27.003 [7224] 530 Not logged in,user or password incorrect!
+01/03/2017 10:44:27.015 [7224] Client disconnected from 10.132.254.115.
+01/03/2017 10:44:48.724 [6284] Client connected from 10.132.254.115.
+01/03/2017 10:44:48.724 [6284] 220 welcome
+01/03/2017 10:44:48.724 [6284] USER anonymous
+01/03/2017 10:44:48.726 [6284] 331 User name ok,need password.
+01/03/2017 10:44:48.726 [6284] PASS 123
+01/03/2017 10:44:48.726 [6284] 530 Not logged in,user or password incorrect!
+01/03/2017 10:44:48.727 [6284] Client disconnected from 10.132.254.115.
+01/03/2017 10:44:51.532 [7588] Client connected from 10.132.254.115.
+01/03/2017 10:44:51.532 [7588] 220 welcome
+01/03/2017 10:44:51.533 [7588] USER admin
+01/03/2017 10:44:51.538 [7588] 331 User name ok,need password.
+01/03/2017 10:44:51.538 [7588] PASS 123
+01/03/2017 10:44:51.539 [7588] 230 User sucessfully logged in.
+01/03/2017 10:44:51.539 [7588] opts utf8 on
+01/03/2017 10:44:51.540 [7588] 501 Syntax error:Command not understood.
+01/03/2017 10:44:51.540 [7588] PWD
+01/03/2017 10:44:51.540 [7588] 257 "/" is current directory.
+01/03/2017 10:44:51.610 [7588] Client disconnected from 10.132.254.115.
+01/03/2017 10:45:08.455 FTP Server stopped.
+01/03/2017 10:45:11.817 FTP Server started on port 25.
+01/03/2017 10:45:19.428 *** END OF APPLICATION ***
+01/03/2017 10:45:26.290 *** START OF APPLICATION ***
+01/03/2017 10:45:33.550 FTP Server started on port 25.
+01/03/2017 10:45:44.010 [6604] Client connected from 10.132.254.115.
+01/03/2017 10:45:44.010 [6604] 220 welcome
+01/03/2017 10:45:44.010 [6604] USER anonymous
+01/03/2017 10:45:44.011 [6604] 331 User name ok,need password.
+01/03/2017 10:45:44.011 [6604] PASS 123
+01/03/2017 10:45:44.011 [6604] 530 Not logged in,user or password incorrect!
+01/03/2017 10:45:44.013 [6604] Client disconnected from 10.132.254.115.
+01/03/2017 10:45:54.125 [4008] Client connected from 10.132.254.115.
+01/03/2017 10:45:54.126 [4008] 220 welcome
+01/03/2017 10:45:54.126 [4008] USER anonymous
+01/03/2017 10:45:54.126 [4008] 331 User name ok,need password.
+01/03/2017 10:45:54.126 [4008] PASS 123
+01/03/2017 10:45:54.126 [4008] 530 Not logged in,user or password incorrect!
+01/03/2017 10:45:54.128 [4008] Client disconnected from 10.132.254.115.
+01/03/2017 10:45:56.309 [6976] Client connected from 10.132.254.115.
+01/03/2017 10:45:56.309 [6976] 220 welcome
+01/03/2017 10:45:56.310 [6976] USER admin
+01/03/2017 10:45:56.311 [6976] 331 User name ok,need password.
+01/03/2017 10:45:56.312 [6976] PASS 123
+01/03/2017 10:45:56.312 [6976] 230 User sucessfully logged in.
+01/03/2017 10:45:56.313 [6976] opts utf8 on
+01/03/2017 10:45:56.313 [6976] 501 Syntax error:Command not understood.
+01/03/2017 10:45:56.314 [6976] syst
+01/03/2017 10:45:56.314 [6976] 215 Windows FTPServer by SiXing Bai.
+01/03/2017 10:45:56.314 [6976] site help
+01/03/2017 10:45:56.315 [6976] 501 Syntax error:Command not understood.
+01/03/2017 10:45:56.315 [6976] PWD
+01/03/2017 10:45:56.316 [6976] 257 "/" is current directory.
+01/03/2017 10:45:56.340 [6976] Client disconnected from 10.132.254.115.
+01/03/2017 10:45:56.397 [5672] Client connected from 10.132.254.115.
+01/03/2017 10:45:56.397 [5672] 220 welcome
+01/03/2017 10:45:56.397 [5672] USER admin
+01/03/2017 10:45:56.398 [5672] 331 User name ok,need password.
+01/03/2017 10:45:56.398 [5672] PASS 123
+01/03/2017 10:45:56.398 [5672] 230 User sucessfully logged in.
+01/03/2017 10:45:56.398 [5672] opts utf8 on
+01/03/2017 10:45:56.398 [5672] 501 Syntax error:Command not understood.
+01/03/2017 10:45:56.398 [5672] syst
+01/03/2017 10:45:56.398 [5672] 215 Windows FTPServer by SiXing Bai.
+01/03/2017 10:45:56.398 [5672] site help
+01/03/2017 10:45:56.398 [5672] 501 Syntax error:Command not understood.
+01/03/2017 10:45:56.399 [5672] PWD
+01/03/2017 10:45:56.399 [5672] 257 "/" is current directory.
+01/03/2017 10:45:56.399 [5672] TYPE A
+01/03/2017 10:45:56.399 [5672] 200 Type set to A
+01/03/2017 10:45:56.399 [5672] PASV
+01/03/2017 10:45:56.399 [5672] 227 Entering Passive Mode(10,132,254,115,18,195).
+01/03/2017 10:45:56.399 [5672] LIST
+01/03/2017 10:45:56.400 [5672] 150 Connection accepted
+01/03/2017 10:45:56.400 [5672] 226 Transfer complete
+01/03/2017 10:45:58.680 [5672] noop
+01/03/2017 10:45:58.680 [5672] 220 ok
+01/03/2017 10:45:58.681 [5672] CWD /FTP服务器/
+01/03/2017 10:45:58.681 [5672] 250 CWD command successful."/FTP服务器" is current directory.
+01/03/2017 10:45:58.681 [5672] TYPE A
+01/03/2017 10:45:58.681 [5672] 200 Type set to A
+01/03/2017 10:45:58.681 [5672] PASV
+01/03/2017 10:45:58.681 [5672] 227 Entering Passive Mode(10,132,254,115,18,197).
+01/03/2017 10:45:58.682 [5672] LIST
+01/03/2017 10:45:58.682 [5672] 150 Connection accepted
+01/03/2017 10:45:58.682 [5672] 226 Transfer complete
+01/03/2017 10:48:26.640 [5672] noop
+01/03/2017 10:48:26.640 [5672] 220 ok
+01/03/2017 10:48:26.640 [5672] CWD /
+01/03/2017 10:48:26.640 [5672] 250 CWD command successful."/" is current directory.
+01/03/2017 10:48:26.641 [5672] noop
+01/03/2017 10:48:26.641 [5672] 220 ok
+01/03/2017 10:48:26.641 [5672] CWD /
+01/03/2017 10:48:26.642 [5672] 250 CWD command successful."/" is current directory.
+01/03/2017 10:48:26.642 [5672] TYPE A
+01/03/2017 10:48:26.642 [5672] 200 Type set to A
+01/03/2017 10:48:26.642 [5672] PASV
+01/03/2017 10:48:26.642 [5672] 227 Entering Passive Mode(10,132,254,115,18,225).
+01/03/2017 10:48:26.643 [5672] LIST
+01/03/2017 10:48:26.643 [5672] 150 Connection accepted
+01/03/2017 10:48:26.644 [5672] 226 Transfer complete
+01/03/2017 10:48:26.644 [5672] noop
+01/03/2017 10:48:26.644 [5672] 220 ok
+01/03/2017 10:48:26.644 [5672] CWD /
+01/03/2017 10:48:26.644 [5672] 250 CWD command successful."/" is current directory.
+01/03/2017 10:48:26.657 [5672] TYPE I
+01/03/2017 10:48:26.657 [5672] 200 Type set to I
+01/03/2017 10:48:26.658 [5672] PASV
+01/03/2017 10:48:26.658 [5672] 227 Entering Passive Mode(10,132,254,115,18,227).
+01/03/2017 10:48:26.658 [5672] STOR 实验指导_01.doc
+01/03/2017 10:48:26.659 [5672] 150 Connection accepted
+01/03/2017 10:48:26.669 [5672] 226 Transfer complete.
+01/03/2017 10:48:34.911 [5672] noop
+01/03/2017 10:48:34.911 [5672] 220 ok
+01/03/2017 10:48:34.911 [5672] CWD /
+01/03/2017 10:48:34.912 [5672] 250 CWD command successful."/" is current directory.
+01/03/2017 10:48:34.913 [5672] noop
+01/03/2017 10:48:34.913 [5672] 220 ok
+01/03/2017 10:48:34.913 [5672] CWD /
+01/03/2017 10:48:34.913 [5672] 250 CWD command successful."/" is current directory.
+01/03/2017 10:48:34.914 [5672] TYPE A
+01/03/2017 10:48:34.914 [5672] 200 Type set to A
+01/03/2017 10:48:34.914 [5672] PASV
+01/03/2017 10:48:34.915 [5672] 227 Entering Passive Mode(10,132,254,115,18,230).
+01/03/2017 10:48:34.915 [5672] LIST
+01/03/2017 10:48:34.916 [5672] 150 Connection accepted
+01/03/2017 10:48:34.917 [5672] 226 Transfer complete
+01/03/2017 10:49:13.116 *** END OF APPLICATION ***
+01/03/2017 10:49:17.103 *** START OF APPLICATION ***
+01/03/2017 10:49:18.685 *** END OF APPLICATION ***
+01/03/2017 10:51:01.988 *** START OF APPLICATION ***
+01/03/2017 10:54:04.284 *** END OF APPLICATION ***
+01/03/2017 10:54:06.667 *** START OF APPLICATION ***
+01/03/2017 10:54:59.189 FTP Server started on port 25.
+01/03/2017 11:04:32.822 *** END OF APPLICATION ***
+01/03/2017 11:04:34.381 *** START OF APPLICATION ***
+01/03/2017 11:05:40.938 *** END OF APPLICATION ***
+01/03/2017 11:05:45.455 *** START OF APPLICATION ***
+01/03/2017 11:06:31.786 *** END OF APPLICATION ***
+01/03/2017 11:06:34.043 *** START OF APPLICATION ***
+01/03/2017 11:07:18.329 *** END OF APPLICATION ***
+01/03/2017 11:07:20.722 *** START OF APPLICATION ***
+01/03/2017 11:08:21.012 *** END OF APPLICATION ***
+01/03/2017 11:08:27.764 *** START OF APPLICATION ***
+01/03/2017 15:21:21.932 *** END OF APPLICATION ***
+02/03/2017 09:29:31.210 *** START OF APPLICATION ***
+02/03/2017 09:40:19.622 *** END OF APPLICATION ***
+02/03/2017 09:40:22.439 *** START OF APPLICATION ***
+02/03/2017 09:41:03.845 *** END OF APPLICATION ***
+02/03/2017 09:41:06.931 *** START OF APPLICATION ***
+02/03/2017 09:41:36.571 *** END OF APPLICATION ***
+02/03/2017 09:41:39.092 *** START OF APPLICATION ***
+02/03/2017 09:43:42.551 *** END OF APPLICATION ***
+02/03/2017 09:43:45.347 *** START OF APPLICATION ***
+02/03/2017 09:46:02.565 *** END OF APPLICATION ***
+02/03/2017 09:46:06.474 *** START OF APPLICATION ***
+02/03/2017 09:46:50.326 *** END OF APPLICATION ***
+02/03/2017 09:46:54.178 *** START OF APPLICATION ***
+02/03/2017 09:47:08.010 FTP Server started on port 218.
+02/03/2017 09:48:44.575 [5516] Client connected from 10.132.254.116.
+02/03/2017 09:48:44.575 [5516] 220 welcome
+02/03/2017 09:48:44.575 [5516] USER anonymous
+02/03/2017 09:48:44.575 [5516] 331 User name ok,need password.
+02/03/2017 09:48:44.575 [5516] PASS User@
+02/03/2017 09:48:44.575 [5516] 530 Not logged in,user or password incorrect!
+02/03/2017 09:48:44.575 [5516] Client disconnected from 10.132.254.116.
+02/03/2017 09:48:44.668 [5552] Client connected from 10.132.254.116.
+02/03/2017 09:48:44.668 [5552] 220 welcome
+02/03/2017 09:48:44.668 [5552] USER anonymous
+02/03/2017 09:48:44.668 [5552] 331 User name ok,need password.
+02/03/2017 09:48:44.668 [5552] PASS User@
+02/03/2017 09:48:44.668 [5552] 530 Not logged in,user or password incorrect!
+02/03/2017 09:48:44.668 [5552] Client disconnected from 10.132.254.116.
+02/03/2017 09:48:47.012 [5568] Client connected from 10.132.254.116.
+02/03/2017 09:48:47.012 [5568] 220 welcome
+02/03/2017 09:48:47.012 [5568] USER anonymous
+02/03/2017 09:48:47.012 [5568] 331 User name ok,need password.
+02/03/2017 09:48:47.012 [5568] PASS User@
+02/03/2017 09:48:47.012 [5568] 530 Not logged in,user or password incorrect!
+02/03/2017 09:48:47.028 [5568] Client disconnected from 10.132.254.116.
+02/03/2017 09:49:12.148 [6012] Client connected from 10.132.254.116.
+02/03/2017 09:49:12.148 [6012] 220 welcome
+02/03/2017 09:49:12.148 [6012] USER anonymous
+02/03/2017 09:49:12.148 [6012] 331 User name ok,need password.
+02/03/2017 09:49:12.148 [6012] PASS User@
+02/03/2017 09:49:12.148 [6012] 530 Not logged in,user or password incorrect!
+02/03/2017 09:49:12.148 [6012] Client disconnected from 10.132.254.116.
+02/03/2017 09:49:15.549 [6000] Client connected from 10.132.254.116.
+02/03/2017 09:49:15.564 [6000] 220 welcome
+02/03/2017 09:49:15.564 [6000] USER anonymous
+02/03/2017 09:49:15.564 [6000] 331 User name ok,need password.
+02/03/2017 09:49:15.564 [6000] PASS User@
+02/03/2017 09:49:15.564 [6000] 530 Not logged in,user or password incorrect!
+02/03/2017 09:49:15.564 [6000] Client disconnected from 10.132.254.116.
+02/03/2017 09:49:20.619 [5880] Client connected from 10.132.254.116.
+02/03/2017 09:49:20.619 [5880] 220 welcome
+02/03/2017 09:49:20.619 [5880] USER admin
+02/03/2017 09:49:20.619 [5880] 331 User name ok,need password.
+02/03/2017 09:49:20.619 [5880] PASS 123
+02/03/2017 09:49:20.619 [5880] 230 User sucessfully logged in.
+02/03/2017 09:49:20.619 [5880] opts utf8 on
+02/03/2017 09:49:20.619 [5880] 501 Syntax error:Command not understood.
+02/03/2017 09:49:20.619 [5880] syst
+02/03/2017 09:49:20.619 [5880] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 09:49:20.619 [5880] site help
+02/03/2017 09:49:20.619 [5880] 501 Syntax error:Command not understood.
+02/03/2017 09:49:20.619 [5880] PWD
+02/03/2017 09:49:20.619 [5880] 257 "/" is current directory.
+02/03/2017 09:49:20.634 [5880] Client disconnected from 10.132.254.116.
+02/03/2017 09:49:20.681 [4292] Client connected from 10.132.254.116.
+02/03/2017 09:49:20.681 [4292] 220 welcome
+02/03/2017 09:49:20.681 [4292] USER admin
+02/03/2017 09:49:20.681 [4292] 331 User name ok,need password.
+02/03/2017 09:49:20.681 [4292] PASS 123
+02/03/2017 09:49:20.681 [4292] 230 User sucessfully logged in.
+02/03/2017 09:49:20.681 [4292] opts utf8 on
+02/03/2017 09:49:20.681 [4292] 501 Syntax error:Command not understood.
+02/03/2017 09:49:20.681 [4292] syst
+02/03/2017 09:49:20.681 [4292] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 09:49:20.681 [4292] site help
+02/03/2017 09:49:20.681 [4292] 501 Syntax error:Command not understood.
+02/03/2017 09:49:20.681 [4292] PWD
+02/03/2017 09:49:20.681 [4292] 257 "/" is current directory.
+02/03/2017 09:49:20.681 [4292] TYPE A
+02/03/2017 09:49:20.681 [4292] 200 Type set to A
+02/03/2017 09:49:20.681 [4292] PASV
+02/03/2017 09:49:20.681 [4292] 227 Entering Passive Mode(10,132,254,116,10,143).
+02/03/2017 09:49:20.681 [4292] LIST
+02/03/2017 09:49:20.681 [4292] 150 Connection accepted
+02/03/2017 09:49:20.681 [4292] 226 Transfer complete
+02/03/2017 09:50:31.430 [4292] Client disconnected from 10.132.254.116.
+02/03/2017 09:50:43.555 [6012] Client connected from 10.132.254.116.
+02/03/2017 09:50:43.555 [6012] 220 welcome
+02/03/2017 09:50:43.555 [6012] USER anonymous
+02/03/2017 09:50:43.555 [6012] 331 User name ok,need password.
+02/03/2017 09:50:43.555 [6012] PASS User@
+02/03/2017 09:50:43.555 [6012] 530 Not logged in,user or password incorrect!
+02/03/2017 09:50:43.555 [6012] Client disconnected from 10.132.254.116.
+02/03/2017 09:50:47.095 [5988] Client connected from 10.132.254.116.
+02/03/2017 09:50:47.095 [5988] 220 welcome
+02/03/2017 09:50:47.110 [5988] USER anonymous
+02/03/2017 09:50:47.110 [5988] 331 User name ok,need password.
+02/03/2017 09:50:47.110 [5988] PASS User@
+02/03/2017 09:50:47.110 [5988] 530 Not logged in,user or password incorrect!
+02/03/2017 09:50:47.110 [5988] Client disconnected from 10.132.254.116.
+02/03/2017 09:50:51.400 [6108] Client connected from 10.132.254.116.
+02/03/2017 09:50:51.400 [6108] 220 welcome
+02/03/2017 09:50:51.400 [6108] USER anonymous
+02/03/2017 09:50:51.400 [6108] 331 User name ok,need password.
+02/03/2017 09:50:51.400 [6108] PASS User@
+02/03/2017 09:50:51.400 [6108] 530 Not logged in,user or password incorrect!
+02/03/2017 09:50:51.400 [6108] Client disconnected from 10.132.254.116.
+02/03/2017 09:51:03.180 [5192] Client connected from 10.132.254.116.
+02/03/2017 09:51:03.180 [5192] 220 welcome
+02/03/2017 09:51:23.993 [5192] user anonymous
+02/03/2017 09:51:24.009 [5192] 331 User name ok,need password.
+02/03/2017 09:51:27.363 [5192] pass 
+02/03/2017 09:51:27.363 [5192] 501 Syntax error:Invalid number of parameters.
+02/03/2017 09:51:53.887 [5192] uesser admin
+02/03/2017 09:51:53.887 [5192] 501 Syntax error:Command not understood.
+02/03/2017 09:52:11.581 [5192] pass 
+02/03/2017 09:52:11.581 [5192] 501 Syntax error:Invalid number of parameters.
+02/03/2017 09:52:18.492 [5192] Client disconnected from 10.132.254.116.
+02/03/2017 09:55:20.797 *** END OF APPLICATION ***
+02/03/2017 09:55:23.936 *** START OF APPLICATION ***
+02/03/2017 09:55:28.725 FTP Server started on port 218.
+02/03/2017 09:55:44.359 [5888] Client connected from 10.132.254.116.
+02/03/2017 09:55:44.359 [5888] 220 welcome
+02/03/2017 09:55:54.499 [5888] user anonymous
+02/03/2017 09:55:54.499 [5888] 501 Syntax error:Invalid number of parameters.
+02/03/2017 09:56:12.522 [5888] auser admin
+02/03/2017 09:56:12.522 [5888] 501 Syntax error:Command not understood.
+02/03/2017 09:56:20.572 [5888] Client disconnected from 10.132.254.116.
+02/03/2017 09:56:23.083 *** END OF APPLICATION ***
+02/03/2017 09:56:26.025 *** START OF APPLICATION ***
+02/03/2017 09:56:29.645 FTP Server started on port 218.
+02/03/2017 09:58:13.466 *** END OF APPLICATION ***
+02/03/2017 09:58:18.024 *** START OF APPLICATION ***
+02/03/2017 09:58:39.788 FTP Server started on port 218.
+02/03/2017 09:58:41.161 [4444] Client connected from 10.132.254.116.
+02/03/2017 09:58:41.161 [4444] 220 welcome
+02/03/2017 09:58:48.245 [4444] user admin
+02/03/2017 09:58:48.245 [4444] 331 User name ok,need password.
+02/03/2017 09:58:52.067 [4444] pass 123
+02/03/2017 09:58:52.067 [4444] 230 User sucessfully logged in.
+02/03/2017 09:59:01.193 [4444] quit
+02/03/2017 09:59:01.193 [4444] 220 Bye
+02/03/2017 09:59:01.193 [4444] 220 GoodBye!
+02/03/2017 09:59:01.193 [4444] Client disconnected from 10.132.254.116.
+02/03/2017 09:59:03.986 [5664] Client connected from 10.132.254.116.
+02/03/2017 09:59:03.986 [5664] 220 welcome
+02/03/2017 09:59:11.679 [5664] user anonymous
+02/03/2017 09:59:11.679 [5664] 331 User name ok,need password.
+02/03/2017 09:59:15.924 [5664] pass 
+02/03/2017 09:59:15.924 [5664] 501 Syntax error:Invalid number of parameters.
+02/03/2017 10:01:21.794 [5664] user admin
+02/03/2017 10:01:21.794 [5664] 331 User name ok,need password.
+02/03/2017 10:01:25.304 [5664] pass 321
+02/03/2017 10:01:25.304 [5664] 530 Not logged in,user or password incorrect!
+02/03/2017 10:01:38.673 [5664] user admin
+02/03/2017 10:01:38.673 [5664] 331 User name ok,need password.
+02/03/2017 10:01:40.967 [5664] pass 
+02/03/2017 10:01:40.967 [5664] 501 Syntax error:Invalid number of parameters.
+02/03/2017 10:02:09.185 *** END OF APPLICATION ***
+02/03/2017 10:02:34.870 *** START OF APPLICATION ***
+02/03/2017 10:02:35.931 *** END OF APPLICATION ***
+02/03/2017 10:02:37.147 *** START OF APPLICATION ***
+02/03/2017 10:02:43.668 FTP Server started on port 218.
+02/03/2017 10:02:46.010 [5292] Client connected from 10.132.254.116.
+02/03/2017 10:02:46.010 [5292] 220 welcome
+02/03/2017 10:02:51.691 [5292] user adnubmin
+02/03/2017 10:02:51.722 [5292] 331 User name ok,need password.
+02/03/2017 10:02:54.468 [5292] pass 123
+02/03/2017 10:02:54.468 [5292] 530 Not logged in,user or password incorrect!
+02/03/2017 10:03:32.224 [5292] user adimin
+02/03/2017 10:03:32.224 [5292] 331 User name ok,need password.
+02/03/2017 10:03:39.322 [5292] apsspass 123
+02/03/2017 10:03:39.322 [5292] 501 Syntax error:Command not understood.
+02/03/2017 10:03:50.949 [5292] user admin
+02/03/2017 10:03:50.949 [5292] 331 User name ok,need password.
+02/03/2017 10:03:55.098 [5292] pass 123
+02/03/2017 10:03:55.098 [5292] 230 User sucessfully logged in.
+02/03/2017 10:03:59.123 [5292] quit
+02/03/2017 10:03:59.123 [5292] 220 Bye
+02/03/2017 10:03:59.123 [5292] 220 GoodBye!
+02/03/2017 10:03:59.123 [5292] Client disconnected from 10.132.254.116.
+02/03/2017 10:04:00.808 [4732] Client connected from 10.132.254.116.
+02/03/2017 10:04:00.808 [4732] 220 welcome
+02/03/2017 10:04:04.099 [4732] tel
+02/03/2017 10:04:04.099 [4732] 501 Syntax error:Command not understood.
+02/03/2017 10:04:11.213 [4732] user ao
+02/03/2017 10:04:11.213 [4732] 331 User name ok,need password.
+02/03/2017 10:04:19.031 [4732] user anonymous
+02/03/2017 10:04:19.031 [4732] 331 User name ok,need password.
+02/03/2017 10:04:21.262 [4732] pass 
+02/03/2017 10:04:21.262 [4732] 230 User sucessfully logged in.
+02/03/2017 10:04:34.928 [5896] Client connected from 10.132.254.116.
+02/03/2017 10:04:34.928 [5896] 220 welcome
+02/03/2017 10:04:34.928 [5896] USER anonymous
+02/03/2017 10:04:34.928 [5896] 331 User name ok,need password.
+02/03/2017 10:04:34.928 [5896] PASS User@
+02/03/2017 10:04:34.928 [5896] 230 User sucessfully logged in.
+02/03/2017 10:04:34.928 [5896] opts utf8 on
+02/03/2017 10:04:34.928 [5896] 501 Syntax error:Command not understood.
+02/03/2017 10:04:34.928 [5896] syst
+02/03/2017 10:04:34.928 [5896] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:04:34.928 [5896] site help
+02/03/2017 10:04:34.928 [5896] 501 Syntax error:Command not understood.
+02/03/2017 10:04:34.928 [5896] PWD
+02/03/2017 10:04:34.928 [5896] 257 "/" is current directory.
+02/03/2017 10:04:34.928 [5896] TYPE A
+02/03/2017 10:04:34.928 [5896] 200 Type set to A
+02/03/2017 10:04:34.928 [5896] PASV
+02/03/2017 10:04:34.928 [5896] 227 Entering Passive Mode(10,132,254,116,11,135).
+02/03/2017 10:04:34.928 [5896] LIST
+02/03/2017 10:04:34.928 [5896] 150 Connection accepted
+02/03/2017 10:04:34.928 [5896] 226 Transfer complete
+02/03/2017 10:04:59.530 [5896] Client disconnected from 10.132.254.116.
+02/03/2017 10:05:13.055 [4732] quit
+02/03/2017 10:05:13.055 [4732] 220 Bye
+02/03/2017 10:05:13.055 [4732] 220 GoodBye!
+02/03/2017 10:05:13.055 [4732] Client disconnected from 10.132.254.116.
+02/03/2017 10:05:20.951 [4080] Client connected from 10.132.254.116.
+02/03/2017 10:05:20.951 [4080] 220 welcome
+02/03/2017 10:05:20.951 [4080] USER anonymous
+02/03/2017 10:05:20.951 [4080] 331 User name ok,need password.
+02/03/2017 10:05:20.951 [4080] PASS User@
+02/03/2017 10:05:20.951 [4080] 230 User sucessfully logged in.
+02/03/2017 10:05:20.951 [4080] opts utf8 on
+02/03/2017 10:05:20.951 [4080] 501 Syntax error:Command not understood.
+02/03/2017 10:05:20.951 [4080] syst
+02/03/2017 10:05:20.951 [4080] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:05:20.951 [4080] site help
+02/03/2017 10:05:20.951 [4080] 501 Syntax error:Command not understood.
+02/03/2017 10:05:20.951 [4080] PWD
+02/03/2017 10:05:20.951 [4080] 257 "/" is current directory.
+02/03/2017 10:05:20.951 [4080] TYPE A
+02/03/2017 10:05:20.951 [4080] 200 Type set to A
+02/03/2017 10:05:20.951 [4080] PASV
+02/03/2017 10:05:20.951 [4080] 227 Entering Passive Mode(10,132,254,116,11,140).
+02/03/2017 10:05:20.951 [4080] LIST
+02/03/2017 10:05:20.951 [4080] 150 Connection accepted
+02/03/2017 10:05:20.951 [4080] 226 Transfer complete
+02/03/2017 10:05:23.073 [4080] Client disconnected from 10.132.254.116.
+02/03/2017 10:05:29.765 *** END OF APPLICATION ***
+02/03/2017 10:05:37.689 *** START OF APPLICATION ***
+02/03/2017 10:05:40.286 FTP Server started on port 218.
+02/03/2017 10:05:44.935 [5428] Client connected from 10.132.254.116.
+02/03/2017 10:05:44.935 [5428] 220 welcome
+02/03/2017 10:05:44.935 [5428] USER anonymous
+02/03/2017 10:05:44.935 [5428] 331 User name ok,need password.
+02/03/2017 10:05:44.935 [5428] PASS User@
+02/03/2017 10:05:44.935 [5428] 230 User sucessfully logged in.
+02/03/2017 10:05:44.935 [5428] opts utf8 on
+02/03/2017 10:05:44.935 [5428] 501 Syntax error:Command not understood.
+02/03/2017 10:05:44.935 [5428] syst
+02/03/2017 10:05:44.935 [5428] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:05:44.935 [5428] site help
+02/03/2017 10:05:44.935 [5428] 501 Syntax error:Command not understood.
+02/03/2017 10:05:44.935 [5428] PWD
+02/03/2017 10:05:44.935 [5428] 257 "/" is current directory.
+02/03/2017 10:05:44.935 [5428] TYPE A
+02/03/2017 10:05:44.935 [5428] 200 Type set to A
+02/03/2017 10:05:44.935 [5428] PASV
+02/03/2017 10:05:44.935 [5428] 227 Entering Passive Mode(10,132,254,116,11,144).
+02/03/2017 10:05:44.935 [5428] LIST
+02/03/2017 10:05:44.935 [5428] 150 Connection accepted
+02/03/2017 10:05:44.935 [5428] 226 Transfer complete
+02/03/2017 10:06:00.705 [5428] Shutting down thread...
+02/03/2017 10:06:00.705 [5428] Client disconnected from 10.132.254.116.
+02/03/2017 10:06:00.720 [5428] Thread successfully stopped.
+02/03/2017 10:06:00.720 FTP Server stopped.
+02/03/2017 10:06:01.703 FTP Server started on port 25.
+02/03/2017 10:07:36.460 [4028] Client connected from 10.132.254.116.
+02/03/2017 10:07:36.460 [4028] 220 welcome
+02/03/2017 10:07:36.460 [4028] USER anonymous
+02/03/2017 10:07:36.460 [4028] 331 User name ok,need password.
+02/03/2017 10:07:36.460 [4028] PASS User@
+02/03/2017 10:07:36.460 [4028] 230 User sucessfully logged in.
+02/03/2017 10:07:36.460 [4028] opts utf8 on
+02/03/2017 10:07:36.460 [4028] 501 Syntax error:Command not understood.
+02/03/2017 10:07:36.460 [4028] syst
+02/03/2017 10:07:36.460 [4028] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:07:36.460 [4028] site help
+02/03/2017 10:07:36.460 [4028] 501 Syntax error:Command not understood.
+02/03/2017 10:07:36.460 [4028] PWD
+02/03/2017 10:07:36.460 [4028] 257 "/" is current directory.
+02/03/2017 10:07:36.460 [4028] MKD asd
+02/03/2017 10:07:36.460 [4028] 550 Can't create directory.Permission denied.
+02/03/2017 10:07:36.476 [4028] TYPE A
+02/03/2017 10:07:36.476 [4028] 200 Type set to A
+02/03/2017 10:07:36.476 [4028] PASV
+02/03/2017 10:07:36.476 [4028] 227 Entering Passive Mode(10,132,254,116,11,186).
+02/03/2017 10:07:36.476 [4028] LIST
+02/03/2017 10:07:36.476 [4028] 150 Connection accepted
+02/03/2017 10:07:36.476 [4028] 226 Transfer complete
+02/03/2017 10:08:17.503 [4028] Shutting down thread...
+02/03/2017 10:08:17.503 [4028] Client disconnected from 10.132.254.116.
+02/03/2017 10:08:17.503 [4028] Thread successfully stopped.
+02/03/2017 10:08:17.503 FTP Server stopped.
+02/03/2017 10:08:18.299 FTP Server started on port 25.
+02/03/2017 10:08:54.873 [4036] Client connected from 10.132.254.116.
+02/03/2017 10:08:54.873 [4036] 220 welcome
+02/03/2017 10:08:54.873 [4036] USER anonymous
+02/03/2017 10:08:54.889 [4036] 331 User name ok,need password.
+02/03/2017 10:08:54.889 [4036] PASS User@
+02/03/2017 10:08:54.889 [4036] 230 User sucessfully logged in.
+02/03/2017 10:08:54.889 [4036] opts utf8 on
+02/03/2017 10:08:54.889 [4036] 501 Syntax error:Command not understood.
+02/03/2017 10:08:54.889 [4036] syst
+02/03/2017 10:08:54.889 [4036] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:08:54.889 [4036] site help
+02/03/2017 10:08:54.889 [4036] 501 Syntax error:Command not understood.
+02/03/2017 10:08:54.889 [4036] PWD
+02/03/2017 10:08:54.889 [4036] 257 "/" is current directory.
+02/03/2017 10:08:54.889 [4036] TYPE A
+02/03/2017 10:08:54.889 [4036] 200 Type set to A
+02/03/2017 10:08:54.889 [4036] PASV
+02/03/2017 10:08:54.889 [4036] 227 Entering Passive Mode(10,132,254,116,11,201).
+02/03/2017 10:08:54.889 [4036] LIST
+02/03/2017 10:08:54.889 [4036] 150 Connection accepted
+02/03/2017 10:08:54.889 [4036] 226 Transfer complete
+02/03/2017 10:09:02.617 [4036] noop
+02/03/2017 10:09:02.617 [4036] 220 ok
+02/03/2017 10:09:02.617 [4036] CWD /
+02/03/2017 10:09:02.617 [4036] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:02.617 [4036] MKD asd
+02/03/2017 10:09:02.617 [4036] 550 Can't create directory.Permission denied.
+02/03/2017 10:09:02.617 [4036] TYPE A
+02/03/2017 10:09:02.617 [4036] 200 Type set to A
+02/03/2017 10:09:02.617 [4036] PASV
+02/03/2017 10:09:02.617 [4036] 227 Entering Passive Mode(10,132,254,116,11,204).
+02/03/2017 10:09:02.617 [4036] LIST
+02/03/2017 10:09:02.617 [4036] 150 Connection accepted
+02/03/2017 10:09:02.617 [4036] 226 Transfer complete
+02/03/2017 10:09:14.627 [6064] Client connected from 10.132.254.116.
+02/03/2017 10:09:14.627 [6064] 220 welcome
+02/03/2017 10:09:14.627 [6064] USER admin
+02/03/2017 10:09:14.627 [6064] 331 User name ok,need password.
+02/03/2017 10:09:14.627 [6064] PASS 123
+02/03/2017 10:09:14.627 [6064] 230 User sucessfully logged in.
+02/03/2017 10:09:14.627 [6064] opts utf8 on
+02/03/2017 10:09:14.627 [6064] 501 Syntax error:Command not understood.
+02/03/2017 10:09:14.627 [6064] syst
+02/03/2017 10:09:14.627 [6064] 215 Windows FTPServer by SiXing Bai.
+02/03/2017 10:09:14.627 [6064] site help
+02/03/2017 10:09:14.627 [6064] 501 Syntax error:Command not understood.
+02/03/2017 10:09:14.627 [6064] PWD
+02/03/2017 10:09:14.627 [6064] 257 "/" is current directory.
+02/03/2017 10:09:14.627 [6064] TYPE A
+02/03/2017 10:09:14.627 [6064] 200 Type set to A
+02/03/2017 10:09:14.627 [6064] PASV
+02/03/2017 10:09:14.627 [6064] 227 Entering Passive Mode(10,132,254,116,11,207).
+02/03/2017 10:09:14.627 [6064] LIST
+02/03/2017 10:09:14.627 [6064] 150 Connection accepted
+02/03/2017 10:09:14.627 [6064] 226 Transfer complete
+02/03/2017 10:09:17.611 [6064] noop
+02/03/2017 10:09:17.611 [6064] 220 ok
+02/03/2017 10:09:17.611 [6064] CWD /
+02/03/2017 10:09:17.611 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:17.611 [6064] MKD asd
+02/03/2017 10:09:17.626 [6064] 250 Directory created successfully.
+02/03/2017 10:09:17.626 [6064] PWD
+02/03/2017 10:09:17.626 [6064] 257 "/" is current directory.
+02/03/2017 10:09:17.626 [6064] CWD asd
+02/03/2017 10:09:17.626 [6064] 250 CWD command successful."/asd" is current directory.
+02/03/2017 10:09:17.626 [6064] CWD /
+02/03/2017 10:09:17.626 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:17.626 [6064] noop
+02/03/2017 10:09:17.642 [6064] 220 ok
+02/03/2017 10:09:17.642 [6064] CWD /
+02/03/2017 10:09:17.642 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:17.642 [6064] PWD
+02/03/2017 10:09:17.642 [6064] 257 "/" is current directory.
+02/03/2017 10:09:17.642 [6064] CWD asd
+02/03/2017 10:09:17.642 [6064] 250 CWD command successful."/asd" is current directory.
+02/03/2017 10:09:17.642 [6064] CWD /
+02/03/2017 10:09:17.642 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:31.029 [6064] noop
+02/03/2017 10:09:31.029 [6064] 220 ok
+02/03/2017 10:09:31.029 [6064] CWD /
+02/03/2017 10:09:31.029 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:31.029 [6064] RNFR asd
+02/03/2017 10:09:31.029 [6064] 350 Directory exists, ready for destination name.
+02/03/2017 10:09:31.029 [6064] RNTO asddasd
+02/03/2017 10:09:31.029 [6064] 250 Directory "E:\FTP1\asd" renamed successfully.
+02/03/2017 10:09:40.703 [6064] noop
+02/03/2017 10:09:40.703 [6064] 220 ok
+02/03/2017 10:09:40.703 [6064] CWD /
+02/03/2017 10:09:40.703 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:40.703 [6064] MKD 新文件夹
+02/03/2017 10:09:40.718 [6064] 250 Directory created successfully.
+02/03/2017 10:09:40.718 [6064] TYPE A
+02/03/2017 10:09:40.718 [6064] 200 Type set to A
+02/03/2017 10:09:40.718 [6064] PASV
+02/03/2017 10:09:40.718 [6064] 227 Entering Passive Mode(10,132,254,116,11,211).
+02/03/2017 10:09:40.718 [6064] LIST
+02/03/2017 10:09:40.718 [6064] 150 Connection accepted
+02/03/2017 10:09:40.718 [6064] 226 Transfer complete
+02/03/2017 10:09:41.545 [6064] noop
+02/03/2017 10:09:41.545 [6064] 220 ok
+02/03/2017 10:09:41.545 [6064] CWD /
+02/03/2017 10:09:41.545 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:41.545 [6064] RNFR 新文件夹
+02/03/2017 10:09:41.545 [6064] 350 Directory exists, ready for destination name.
+02/03/2017 10:09:41.545 [6064] RNTO sadas
+02/03/2017 10:09:41.545 [6064] 250 Directory "E:\FTP1\新文件夹" renamed successfully.
+02/03/2017 10:09:47.535 [6064] noop
+02/03/2017 10:09:47.535 [6064] 220 ok
+02/03/2017 10:09:47.535 [6064] CWD /
+02/03/2017 10:09:47.535 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:47.551 [6064] noop
+02/03/2017 10:09:47.551 [6064] 220 ok
+02/03/2017 10:09:47.551 [6064] CWD /
+02/03/2017 10:09:47.551 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:47.551 [6064] PWD
+02/03/2017 10:09:47.551 [6064] 257 "/" is current directory.
+02/03/2017 10:09:47.551 [6064] CWD /
+02/03/2017 10:09:47.551 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:47.551 [6064] TYPE I
+02/03/2017 10:09:47.551 [6064] 200 Type set to I
+02/03/2017 10:09:47.551 [6064] PASV
+02/03/2017 10:09:47.551 [6064] 227 Entering Passive Mode(10,132,254,116,11,213).
+02/03/2017 10:09:47.551 [6064] SIZE 第2章 Windows环境下的局域网配置与管理-V2.pdf
+02/03/2017 10:09:47.551 [6064] 502 Command not implemented - Try HELP.
+02/03/2017 10:09:47.551 [6064] RETR 第2章 Windows环境下的局域网配置与管理-V2.pdf
+02/03/2017 10:09:47.567 [6064] 150 Connection accepted
+02/03/2017 10:09:47.863 [6064] 226 Transfer complete
+02/03/2017 10:09:52.949 [6064] noop
+02/03/2017 10:09:52.949 [6064] 220 ok
+02/03/2017 10:09:52.949 [6064] CWD /
+02/03/2017 10:09:52.949 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:52.995 [6064] PWD
+02/03/2017 10:09:52.995 [6064] 257 "/" is current directory.
+02/03/2017 10:09:52.995 [6064] CWD asddasd
+02/03/2017 10:09:52.995 [6064] 250 CWD command successful."/asddasd" is current directory.
+02/03/2017 10:09:52.995 [6064] TYPE A
+02/03/2017 10:09:52.995 [6064] 200 Type set to A
+02/03/2017 10:09:52.995 [6064] PASV
+02/03/2017 10:09:52.995 [6064] 227 Entering Passive Mode(10,132,254,116,11,215).
+02/03/2017 10:09:52.995 [6064] LIST
+02/03/2017 10:09:52.995 [6064] 150 Connection accepted
+02/03/2017 10:09:52.995 [6064] 226 Transfer complete
+02/03/2017 10:09:52.995 [6064] CWD /
+02/03/2017 10:09:52.995 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:52.995 [6064] PWD
+02/03/2017 10:09:52.995 [6064] 257 "/" is current directory.
+02/03/2017 10:09:52.995 [6064] CWD asddasd
+02/03/2017 10:09:52.995 [6064] 250 CWD command successful."/asddasd" is current directory.
+02/03/2017 10:09:52.995 [6064] TYPE A
+02/03/2017 10:09:52.995 [6064] 200 Type set to A
+02/03/2017 10:09:52.995 [6064] PASV
+02/03/2017 10:09:52.995 [6064] 227 Entering Passive Mode(10,132,254,116,11,217).
+02/03/2017 10:09:52.995 [6064] LIST
+02/03/2017 10:09:52.995 [6064] 150 Connection accepted
+02/03/2017 10:09:52.995 [6064] 226 Transfer complete
+02/03/2017 10:09:52.995 [6064] CWD /
+02/03/2017 10:09:52.995 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:52.995 [6064] RMD asddasd
+02/03/2017 10:09:53.011 [6064] 250 Directory deleted successfully.
+02/03/2017 10:09:54.415 [6064] noop
+02/03/2017 10:09:54.415 [6064] 220 ok
+02/03/2017 10:09:54.415 [6064] CWD /
+02/03/2017 10:09:54.415 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:09:54.431 [6064] PWD
+02/03/2017 10:09:54.431 [6064] 257 "/" is current directory.
+02/03/2017 10:10:01.235 [6064] CWD sadas
+02/03/2017 10:10:01.235 [6064] 250 CWD command successful."/sadas" is current directory.
+02/03/2017 10:10:01.235 [6064] TYPE A
+02/03/2017 10:10:01.235 [6064] 200 Type set to A
+02/03/2017 10:10:01.235 [6064] PASV
+02/03/2017 10:10:01.235 [6064] 227 Entering Passive Mode(10,132,254,116,11,221).
+02/03/2017 10:10:01.235 [6064] LIST
+02/03/2017 10:10:01.235 [6064] 150 Connection accepted
+02/03/2017 10:10:01.235 [6064] 226 Transfer complete
+02/03/2017 10:10:01.235 [6064] CWD /
+02/03/2017 10:10:01.235 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:10:01.250 [6064] PWD
+02/03/2017 10:10:01.250 [6064] 257 "/" is current directory.
+02/03/2017 10:10:01.250 [6064] CWD sadas
+02/03/2017 10:10:01.250 [6064] 250 CWD command successful."/sadas" is current directory.
+02/03/2017 10:10:01.250 [6064] TYPE A
+02/03/2017 10:10:01.250 [6064] 200 Type set to A
+02/03/2017 10:10:01.250 [6064] PASV
+02/03/2017 10:10:01.250 [6064] 227 Entering Passive Mode(10,132,254,116,11,223).
+02/03/2017 10:10:01.250 [6064] LIST
+02/03/2017 10:10:01.250 [6064] 150 Connection accepted
+02/03/2017 10:10:01.250 [6064] 226 Transfer complete
+02/03/2017 10:10:01.250 [6064] CWD /
+02/03/2017 10:10:01.250 [6064] 250 CWD command successful."/" is current directory.
+02/03/2017 10:10:01.250 [6064] RMD sadas
+02/03/2017 10:10:01.250 [6064] 250 Directory deleted successfully.
+02/03/2017 10:11:37.828 *** START OF APPLICATION ***
+02/03/2017 10:11:41.084 FTP Server started on port 25.
+02/03/2017 10:11:54.288 [5596] Client connected from 10.132.254.116.
+02/03/2017 10:11:54.288 [5596] 220 welcome
+02/03/2017 10:11:54.288 [5596] USER admin
+02/03/2017 10:11:54.290 [5596] 331 User name ok,need password.
+02/03/2017 10:11:54.290 [5596] PASS 123
+02/03/2017 10:11:54.290 [5596] 230 User sucessfully logged in.
+02/03/2017 10:11:54.290 [5596] opts utf8 on
+02/03/2017 10:11:54.291 [5596] 501 Syntax error:Command not understood.
+02/03/2017 10:11:54.291 [5596] PWD
+02/03/2017 10:11:54.291 [5596] 257 "/" is current directory.
+02/03/2017 10:11:54.291 [5596] CWD /
+02/03/2017 10:11:54.291 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:11:54.292 [5596] TYPE A
+02/03/2017 10:11:54.292 [5596] 200 Type set to A
+02/03/2017 10:11:54.292 [5596] PASV
+02/03/2017 10:11:54.293 [5596] 227 Entering Passive Mode(10,132,254,116,12,56).
+02/03/2017 10:11:54.293 [5596] LIST
+02/03/2017 10:11:54.294 [5596] 150 Connection accepted
+02/03/2017 10:11:54.294 [5596] 226 Transfer complete
+02/03/2017 10:12:18.308 [5660] Client connected from 10.132.254.116.
+02/03/2017 10:12:18.308 [5660] 220 welcome
+02/03/2017 10:12:25.562 [5660] uswer admin
+02/03/2017 10:12:25.562 [5660] 501 Syntax error:Command not understood.
+02/03/2017 10:12:31.912 [5660] user anonymous
+02/03/2017 10:12:31.915 [5660] 331 User name ok,need password.
+02/03/2017 10:12:35.120 [5660] pass 
+02/03/2017 10:12:35.120 [5660] 230 User sucessfully logged in.
+02/03/2017 10:12:45.567 [5596] noop
+02/03/2017 10:12:45.567 [5596] 220 ok
+02/03/2017 10:12:45.567 [5596] CWD /
+02/03/2017 10:12:45.568 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:12:45.568 [5596] MKD asd
+02/03/2017 10:12:45.569 [5596] 250 Directory created successfully.
+02/03/2017 10:12:45.572 [5596] PWD
+02/03/2017 10:12:45.573 [5596] 257 "/" is current directory.
+02/03/2017 10:12:45.573 [5596] CWD asd
+02/03/2017 10:12:45.573 [5596] 250 CWD command successful."/asd" is current directory.
+02/03/2017 10:12:45.573 [5596] CWD /
+02/03/2017 10:12:45.574 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:12:45.574 [5596] noop
+02/03/2017 10:12:45.574 [5596] 220 ok
+02/03/2017 10:12:45.574 [5596] CWD /
+02/03/2017 10:12:45.574 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:12:45.575 [5596] PWD
+02/03/2017 10:12:45.575 [5596] 257 "/" is current directory.
+02/03/2017 10:12:45.576 [5596] CWD asd
+02/03/2017 10:12:45.576 [5596] 250 CWD command successful."/asd" is current directory.
+02/03/2017 10:12:45.576 [5596] CWD /
+02/03/2017 10:12:45.576 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:13:09.898 [5660] Client disconnected from 10.132.254.116.
+02/03/2017 10:18:33.441 [5596] noop
+02/03/2017 10:18:33.441 [5596] 220 ok
+02/03/2017 10:18:33.441 [5596] CWD /
+02/03/2017 10:18:33.441 [5596] 250 CWD command successful."/" is current directory.
+02/03/2017 10:18:33.441 [5596] TYPE A
+02/03/2017 10:18:33.441 [5596] 200 Type set to A
+02/03/2017 10:18:33.441 [5596] PASV
+02/03/2017 10:18:33.441 [5596] 227 Entering Passive Mode(10,132,254,116,19,55).
+02/03/2017 10:18:33.441 [5596] LIST
+02/03/2017 10:18:33.441 [5596] 150 Connection accepted
+02/03/2017 10:18:33.441 [5596] 226 Transfer complete
+02/03/2017 10:20:36.491 *** END OF APPLICATION ***
+02/03/2017 16:00:55.404 *** START OF APPLICATION ***
+02/03/2017 16:01:02.148 FTP Server started on port 220.
+02/03/2017 16:03:50.386 [13212] Client connected from 10.132.254.197.
+02/03/2017 16:03:50.389 [13212] 220 welcome
+02/03/2017 16:03:50.405 [13212] OPTS UTF8 ON
+02/03/2017 16:03:50.408 [13212] 501 Syntax error:Command not understood.
+02/03/2017 16:04:46.058 [13212] USER admin	
+02/03/2017 16:04:46.074 [13212] 331 User name ok,need password.
+02/03/2017 16:04:49.209 [13212] PASS 123
+02/03/2017 16:04:49.212 [13212] 530 Not logged in,user or password incorrect!
+02/03/2017 16:05:28.733 [13212] USER admin
+02/03/2017 16:05:28.744 [13212] 331 User name ok,need password.
+02/03/2017 16:05:30.936 [13212] PASS 123
+02/03/2017 16:05:30.939 [13212] 230 User sucessfully logged in.
+02/03/2017 16:55:57.346 [13212] Client disconnected from 10.132.254.197.
+02/03/2017 16:55:58.461 *** END OF APPLICATION ***
+03/03/2017 09:50:11.364 *** START OF APPLICATION ***
+03/03/2017 09:50:24.591 FTP Server started on port 220.
+03/03/2017 09:50:49.945 FTP Server stopped.
+03/03/2017 09:50:51.802 FTP Server started on port 220.
+03/03/2017 09:50:57.369 *** END OF APPLICATION ***
+04/03/2017 12:40:57.908 *** START OF APPLICATION ***
+04/03/2017 12:40:59.868 *** END OF APPLICATION ***
+05/03/2017 15:08:34.929 *** START OF APPLICATION ***
+05/03/2017 15:08:36.518 *** END OF APPLICATION ***
+15/06/2017 20:16:51.867 *** START OF APPLICATION ***
+15/06/2017 20:16:58.640 *** END OF APPLICATION ***
+15/06/2017 20:20:20.204 *** START OF APPLICATION ***
+15/06/2017 20:20:43.051 *** END OF APPLICATION ***
+15/06/2017 20:38:43.627 *** START OF APPLICATION ***
+15/06/2017 20:38:45.624 FTP Server started on port 21.
+15/06/2017 20:39:12.363 *** END OF APPLICATION ***
+15/06/2017 20:39:24.493 *** START OF APPLICATION ***
+15/06/2017 20:39:31.707 *** START OF APPLICATION ***
+15/06/2017 20:39:41.061 FTP Server started on port 21.
+15/06/2017 20:39:45.852 *** END OF APPLICATION ***
+15/06/2017 20:40:41.163 *** START OF APPLICATION ***
+15/06/2017 20:41:42.599 *** END OF APPLICATION ***
+15/06/2017 20:42:51.236 *** START OF APPLICATION ***
+15/06/2017 20:42:53.261 FTP Server started on port 21.
+15/06/2017 20:42:54.407 FTP Server stopped.
+15/06/2017 20:43:05.595 *** END OF APPLICATION ***
+15/06/2017 20:44:51.280 *** START OF APPLICATION ***
+15/06/2017 20:44:57.613 *** END OF APPLICATION ***
+15/06/2017 20:45:49.834 *** START OF APPLICATION ***
+15/06/2017 20:45:54.424 FTP Server started on port 21.
+15/06/2017 20:45:55.248 FTP Server stopped.
+15/06/2017 20:45:56.894 *** END OF APPLICATION ***
+15/06/2017 20:46:48.822 *** START OF APPLICATION ***
+15/06/2017 20:49:37.598 FTP Server started on port 21.
+15/06/2017 20:49:55.164 [6020] Client connected from 127.0.0.1.
+15/06/2017 20:49:55.164 [6020] 220 welcome
+15/06/2017 20:50:00.546 [6020] USER admin
+15/06/2017 20:50:00.548 [6020] 331 User name ok,need password.
+15/06/2017 20:50:01.993 [6020] PASS admin
+15/06/2017 20:50:01.993 [6020] 530 Not logged in,user or password incorrect!
+15/06/2017 20:50:14.936 [6020] USER admin
+15/06/2017 20:50:14.939 [6020] 331 User name ok,need password.
+15/06/2017 20:50:16.033 [6020] PASS 123
+15/06/2017 20:50:16.033 [6020] 230 User sucessfully logged in.
+15/06/2017 20:50:26.788 [6020] Client disconnected from 127.0.0.1.
+15/06/2017 20:50:59.071 *** END OF APPLICATION ***
+15/06/2017 20:59:39.126 *** START OF APPLICATION ***
+15/06/2017 20:59:42.854 FTP Server started on port 21.
+15/06/2017 20:59:51.580 *** END OF APPLICATION ***
+15/06/2017 21:00:18.586 *** START OF APPLICATION ***
+15/06/2017 21:00:20.039 FTP Server started on port 21.
+15/06/2017 21:00:20.865 FTP Server stopped.
+15/06/2017 21:00:26.694 *** END OF APPLICATION ***
+15/06/2017 21:00:33.214 *** START OF APPLICATION ***
+15/06/2017 21:00:59.530 *** END OF APPLICATION ***
+15/06/2017 21:07:41.253 *** START OF APPLICATION ***
+15/06/2017 21:07:45.560 FTP Server started on port 0.
+15/06/2017 21:07:51.260 FTP Server stopped.
+15/06/2017 21:07:59.769 FTP Server started on port 0.
+15/06/2017 21:08:01.081 FTP Server stopped.
+15/06/2017 21:08:02.078 *** END OF APPLICATION ***
+15/06/2017 21:11:57.518 *** START OF APPLICATION ***
+15/06/2017 21:11:58.994 FTP Server started on port 0.
+15/06/2017 21:12:01.451 *** END OF APPLICATION ***
+15/06/2017 21:13:34.240 *** START OF APPLICATION ***
+15/06/2017 21:13:36.438 FTP Server started on port 0.
+15/06/2017 21:13:38.167 *** END OF APPLICATION ***
+15/06/2017 21:15:35.376 *** START OF APPLICATION ***
+15/06/2017 21:15:36.814 FTP Server started on port 0.
+15/06/2017 21:15:38.659 *** END OF APPLICATION ***
+15/06/2017 21:17:31.231 *** START OF APPLICATION ***
+15/06/2017 21:17:39.886 *** END OF APPLICATION ***
+15/06/2017 21:19:47.826 *** START OF APPLICATION ***
+15/06/2017 21:19:48.895 FTP Server started on port 0.
+15/06/2017 21:19:55.812 *** END OF APPLICATION ***
+15/06/2017 21:20:10.533 *** START OF APPLICATION ***
+15/06/2017 21:20:14.051 *** END OF APPLICATION ***
+15/06/2017 21:20:16.738 *** START OF APPLICATION ***
+15/06/2017 21:20:18.649 FTP Server started on port 0.
+15/06/2017 21:20:20.475 *** END OF APPLICATION ***
+15/06/2017 21:21:32.405 *** START OF APPLICATION ***
+15/06/2017 21:21:34.634 FTP Server started on port 22.
+15/06/2017 21:21:35.878 *** END OF APPLICATION ***
+15/06/2017 21:30:29.574 *** START OF APPLICATION ***
+15/06/2017 21:30:30.847 FTP Server started on port 21.
+15/06/2017 21:30:33.794 FTP Server stopped.
+15/06/2017 21:30:37.563 FTP Server started on port 32.
+15/06/2017 21:30:39.125 FTP Server stopped.
+15/06/2017 21:30:42.493 *** END OF APPLICATION ***
+16/06/2017 08:35:38.151 *** START OF APPLICATION ***
+16/06/2017 08:36:17.510 *** END OF APPLICATION ***
+16/06/2017 08:41:33.255 *** START OF APPLICATION ***
+16/06/2017 08:44:52.706 *** END OF APPLICATION ***
+16/06/2017 08:44:57.125 *** START OF APPLICATION ***
+16/06/2017 08:45:02.834 *** END OF APPLICATION ***
+16/06/2017 08:45:25.293 *** START OF APPLICATION ***
+16/06/2017 08:45:30.091 *** END OF APPLICATION ***
+16/06/2017 08:45:54.155 *** START OF APPLICATION ***
+16/06/2017 08:46:09.516 *** END OF APPLICATION ***
+16/06/2017 08:49:18.148 *** START OF APPLICATION ***
+16/06/2017 08:49:19.037 FTP Server started on port 21.
+16/06/2017 08:49:21.814 FTP Server stopped.
+16/06/2017 08:49:37.835 *** END OF APPLICATION ***
+16/06/2017 08:53:22.991 *** START OF APPLICATION ***
+16/06/2017 08:53:28.669 FTP Server started on port 21.
+16/06/2017 08:53:30.167 *** END OF APPLICATION ***
+16/06/2017 08:54:31.538 *** START OF APPLICATION ***
+16/06/2017 08:54:32.770 FTP Server started on port 21.
+16/06/2017 08:54:37.544 FTP Server stopped.
+16/06/2017 08:54:41.959 *** END OF APPLICATION ***
+16/06/2017 08:55:38.646 *** START OF APPLICATION ***
+16/06/2017 08:55:39.598 FTP Server started on port 21.
+16/06/2017 08:55:40.565 FTP Server stopped.
+16/06/2017 08:55:41.829 *** END OF APPLICATION ***
+16/06/2017 08:56:09.723 *** START OF APPLICATION ***
+16/06/2017 08:56:14.450 FTP Server started on port 21.
+16/06/2017 08:56:15.495 FTP Server stopped.
+16/06/2017 08:56:18.038 *** END OF APPLICATION ***
+16/06/2017 09:27:28.618 *** START OF APPLICATION ***
+16/06/2017 09:27:29.919 FTP Server started on port 21.
+16/06/2017 09:28:02.495 [3148] Client connected from 10.132.254.132.
+16/06/2017 09:28:02.496 [3148] 220 welcome
+16/06/2017 09:28:04.378 [3148] Client disconnected from 10.132.254.132.
+16/06/2017 09:28:05.684 FTP Server stopped.
+16/06/2017 09:28:08.965 FTP Server failed to listen on port 21.
+16/06/2017 09:28:19.061 FTP Server failed to listen on port 21.
+16/06/2017 09:28:23.943 FTP Server failed to listen on port 21.
+16/06/2017 09:28:54.905 *** END OF APPLICATION ***
+16/06/2017 09:29:23.697 *** START OF APPLICATION ***
+16/06/2017 09:29:29.093 FTP Server failed to listen on port 21.
+16/06/2017 09:29:37.497 FTP Server failed to listen on port 21.
+16/06/2017 09:29:43.401 *** END OF APPLICATION ***
+16/06/2017 09:59:13.009 *** START OF APPLICATION ***
+16/06/2017 09:59:16.089 FTP Server started on port 21.
+16/06/2017 09:59:31.497 [2256] Client connected from 10.132.254.132.
+16/06/2017 09:59:31.498 [2256] 220 welcome
+16/06/2017 09:59:34.677 [2256] USER admin
+16/06/2017 09:59:34.680 [2256] 331 User name ok,need password.
+16/06/2017 09:59:36.286 [2256] PASS 123
+16/06/2017 09:59:36.286 [2256] 230 User sucessfully logged in.
+16/06/2017 09:59:46.517 [2256] Client disconnected from 10.132.254.132.
+16/06/2017 10:00:07.285 *** END OF APPLICATION ***
+16/06/2017 10:01:29.073 *** START OF APPLICATION ***
+16/06/2017 10:01:30.759 *** END OF APPLICATION ***
+16/06/2017 10:07:58.550 *** START OF APPLICATION ***
+16/06/2017 10:08:11.589 *** START OF APPLICATION ***
+16/06/2017 10:08:14.618 FTP Server started on port 21.
+16/06/2017 10:08:16.093 FTP Server stopped.
+16/06/2017 10:08:17.812 *** END OF APPLICATION ***
+16/06/2017 10:08:19.944 *** START OF APPLICATION ***
+16/06/2017 10:08:24.991 *** END OF APPLICATION ***
+16/06/2017 10:08:39.938 *** START OF APPLICATION ***
+16/06/2017 10:08:41.708 *** END OF APPLICATION ***
+16/06/2017 10:14:01.156 *** START OF APPLICATION ***
+16/06/2017 10:14:14.922 FTP Server started on port 21.
+16/06/2017 10:14:20.181 FTP Server stopped.
+16/06/2017 10:14:24.233 FTP Server started on port 55.
+16/06/2017 10:14:44.769 [1056] Client connected from 10.132.254.132.
+16/06/2017 10:14:44.770 [1056] 220 welcome
+16/06/2017 10:16:22.852 [1056] Client disconnected from 10.132.254.132.
+16/06/2017 10:16:23.871 *** END OF APPLICATION ***
+16/06/2017 10:19:25.177 *** START OF APPLICATION ***
+16/06/2017 10:19:27.220 FTP Server started on port 21.
+16/06/2017 10:19:38.552 *** END OF APPLICATION ***
+16/06/2017 10:20:28.109 *** START OF APPLICATION ***
+16/06/2017 10:20:41.953 *** END OF APPLICATION ***
+16/06/2017 10:21:05.928 *** START OF APPLICATION ***
+16/06/2017 10:21:13.147 *** END OF APPLICATION ***
+16/06/2017 10:21:40.274 *** START OF APPLICATION ***
+16/06/2017 10:21:51.199 *** END OF APPLICATION ***
+16/06/2017 10:22:13.622 *** START OF APPLICATION ***
+16/06/2017 10:22:25.610 *** END OF APPLICATION ***
+16/06/2017 10:22:58.331 *** START OF APPLICATION ***
+16/06/2017 10:23:17.936 *** END OF APPLICATION ***
+16/06/2017 10:23:51.671 *** START OF APPLICATION ***
+16/06/2017 10:23:57.135 *** END OF APPLICATION ***
+16/06/2017 10:24:13.037 *** START OF APPLICATION ***
+16/06/2017 10:24:23.988 *** END OF APPLICATION ***
+16/06/2017 10:24:46.980 *** START OF APPLICATION ***
+16/06/2017 10:25:07.647 *** END OF APPLICATION ***
+16/06/2017 10:26:05.893 *** START OF APPLICATION ***
+16/06/2017 10:26:33.805 *** END OF APPLICATION ***
+16/06/2017 10:27:28.837 *** START OF APPLICATION ***
+16/06/2017 10:27:40.186 FTP Server started on port 21.
+16/06/2017 10:27:48.246 *** END OF APPLICATION ***
+16/06/2017 10:28:05.909 *** START OF APPLICATION ***
+16/06/2017 10:28:06.908 FTP Server started on port 21.
+16/06/2017 10:28:20.638 FTP Server stopped.
+16/06/2017 10:28:43.655 *** END OF APPLICATION ***
+16/06/2017 10:30:50.197 *** START OF APPLICATION ***
+16/06/2017 10:30:53.066 *** END OF APPLICATION ***
+16/06/2017 10:32:54.086 *** START OF APPLICATION ***
+16/06/2017 10:33:09.180 *** START OF APPLICATION ***
+16/06/2017 10:33:11.090 FTP Server started on port 21.
+16/06/2017 10:33:12.422 FTP Server stopped.
+16/06/2017 10:34:04.114 *** END OF APPLICATION ***
+16/06/2017 10:38:51.667 *** START OF APPLICATION ***
+16/06/2017 10:39:18.342 *** END OF APPLICATION ***
+16/06/2017 10:40:40.355 *** START OF APPLICATION ***
+16/06/2017 10:41:10.195 *** END OF APPLICATION ***
+16/06/2017 10:41:28.969 *** START OF APPLICATION ***
+16/06/2017 10:41:30.722 *** END OF APPLICATION ***
+24/06/2017 17:24:12.757 *** START OF APPLICATION ***
+24/06/2017 17:24:16.517 FTP Server started on port 21.
+24/06/2017 17:24:49.464 *** END OF APPLICATION ***
+24/06/2017 17:42:05.873 *** START OF APPLICATION ***
+24/06/2017 17:42:19.617 *** END OF APPLICATION ***
+25/06/2017 15:49:59.793 *** START OF APPLICATION ***
+25/06/2017 15:50:28.841 FTP Server started on port 21.
+25/06/2017 15:51:02.661 [6060] Client connected from 10.132.254.132.
+25/06/2017 15:51:02.661 [6060] 220 welcome
+25/06/2017 15:51:02.661 [6060] USER anonymous
+25/06/2017 15:51:02.661 [6060] 331 User name ok,need password.
+25/06/2017 15:51:02.661 [6060] PASS User@
+25/06/2017 15:51:02.661 [6060] 230 User sucessfully logged in.
+25/06/2017 15:51:02.661 [6060] opts utf8 on
+25/06/2017 15:51:02.661 [6060] 501 Syntax error:Command not understood.
+25/06/2017 15:51:02.661 [6060] syst
+25/06/2017 15:51:02.661 [6060] 215 Windows FTPServer by SiXing Bai.
+25/06/2017 15:51:02.661 [6060] site help
+25/06/2017 15:51:02.661 [6060] 501 Syntax error:Command not understood.
+25/06/2017 15:51:02.661 [6060] PWD
+25/06/2017 15:51:02.661 [6060] 257 "/" is current directory.
+25/06/2017 15:51:02.739 [6060] noop
+25/06/2017 15:51:02.739 [6060] 220 ok
+25/06/2017 15:51:02.739 [6060] CWD /
+25/06/2017 15:51:02.739 [6060] 250 CWD command successful."/" is current directory.
+25/06/2017 15:51:02.739 [6060] TYPE A
+25/06/2017 15:51:02.739 [6060] 200 Type set to A
+25/06/2017 15:51:02.739 [6060] PASV
+25/06/2017 15:51:02.739 [6060] 227 Entering Passive Mode(10,132,254,132,81,52).
+25/06/2017 15:51:02.739 [6060] LIST
+25/06/2017 15:51:02.780 [6060] 150 Connection accepted
+25/06/2017 15:51:02.781 [6060] 226 Transfer complete
+25/06/2017 15:51:12.991 [6060] noop
+25/06/2017 15:51:12.991 [6060] 220 ok
+25/06/2017 15:51:12.991 [6060] CWD /licheng/
+25/06/2017 15:51:13.034 [6060] 250 CWD command successful."/licheng" is current directory.
+25/06/2017 15:51:13.034 [6060] TYPE A
+25/06/2017 15:51:13.034 [6060] 200 Type set to A
+25/06/2017 15:51:13.044 [6060] PASV
+25/06/2017 15:51:13.044 [6060] 227 Entering Passive Mode(10,132,254,132,81,55).
+25/06/2017 15:51:13.044 [6060] LIST
+25/06/2017 15:51:13.044 [6060] 150 Connection accepted
+25/06/2017 15:51:13.044 [6060] 226 Transfer complete
+25/06/2017 15:51:19.691 [6060] noop
+25/06/2017 15:51:19.691 [6060] 220 ok
+25/06/2017 15:51:19.691 [6060] CWD /
+25/06/2017 15:51:19.691 [6060] 250 CWD command successful."/" is current directory.
+25/06/2017 15:51:19.691 [6060] RNFR licheng.txt
+25/06/2017 15:51:19.722 [6060] 550 Permission denied.
+25/06/2017 15:51:28.917 [4752] Client connected from 10.132.254.132.
+25/06/2017 15:51:28.917 [4752] 220 welcome
+25/06/2017 15:51:28.917 [4752] USER admin
+25/06/2017 15:51:28.917 [4752] 331 User name ok,need password.
+25/06/2017 15:51:28.917 [4752] PASS 123
+25/06/2017 15:51:28.917 [4752] 230 User sucessfully logged in.
+25/06/2017 15:51:28.917 [4752] opts utf8 on
+25/06/2017 15:51:28.917 [4752] 501 Syntax error:Command not understood.
+25/06/2017 15:51:28.917 [4752] syst
+25/06/2017 15:51:28.917 [4752] 215 Windows FTPServer by SiXing Bai.
+25/06/2017 15:51:28.917 [4752] site help
+25/06/2017 15:51:28.917 [4752] 501 Syntax error:Command not understood.
+25/06/2017 15:51:28.917 [4752] PWD
+25/06/2017 15:51:28.917 [4752] 257 "/" is current directory.
+25/06/2017 15:51:28.917 [4752] TYPE A
+25/06/2017 15:51:28.917 [4752] 200 Type set to A
+25/06/2017 15:51:28.917 [4752] PASV
+25/06/2017 15:51:28.917 [4752] 227 Entering Passive Mode(10,132,254,132,81,58).
+25/06/2017 15:51:28.917 [4752] LIST
+25/06/2017 15:51:28.917 [4752] 150 Connection accepted
+25/06/2017 15:51:28.917 [4752] 226 Transfer complete
+25/06/2017 15:51:35.489 [4752] noop
+25/06/2017 15:51:35.489 [4752] 220 ok
+25/06/2017 15:51:35.489 [4752] CWD /
+25/06/2017 15:51:35.489 [4752] 250 CWD command successful."/" is current directory.
+25/06/2017 15:51:35.489 [4752] RNFR licheng.txt
+25/06/2017 15:51:35.489 [4752] 350 File exists, ready for destination name.
+25/06/2017 15:51:35.489 [4752] RNTO lic.txt
+25/06/2017 15:51:35.489 [4752] 250 File "E:\FTP1\licheng.txt" renamed successfully.
+25/06/2017 15:51:37.127 [4752] noop
+25/06/2017 15:51:37.127 [4752] 220 ok
+25/06/2017 15:51:37.127 [4752] CWD /licheng/
+25/06/2017 15:51:37.127 [4752] 250 CWD command successful."/licheng" is current directory.
+25/06/2017 15:51:37.127 [4752] TYPE A
+25/06/2017 15:51:37.127 [4752] 200 Type set to A
+25/06/2017 15:51:37.142 [4752] PASV
+25/06/2017 15:51:37.142 [4752] 227 Entering Passive Mode(10,132,254,132,81,64).
+25/06/2017 15:51:37.142 [4752] LIST
+25/06/2017 15:51:37.142 [4752] 150 Connection accepted
+25/06/2017 15:51:37.142 [4752] 226 Transfer complete
+25/06/2017 15:51:46.226 [4752] noop
+25/06/2017 15:51:46.226 [4752] 220 ok
+25/06/2017 15:51:46.226 [4752] CWD /licheng/
+25/06/2017 15:51:46.226 [4752] 250 CWD command successful."/licheng" is current directory.
+25/06/2017 15:51:46.226 [4752] noop
+25/06/2017 15:51:46.226 [4752] 220 ok
+25/06/2017 15:51:46.226 [4752] CWD /licheng/
+25/06/2017 15:51:46.226 [4752] 250 CWD command successful."/licheng" is current directory.
+25/06/2017 15:51:46.226 [4752] TYPE A
+25/06/2017 15:51:46.226 [4752] 200 Type set to A
+25/06/2017 15:51:46.226 [4752] PASV
+25/06/2017 15:51:46.226 [4752] 227 Entering Passive Mode(10,132,254,132,81,71).
+25/06/2017 15:51:46.226 [4752] LIST
+25/06/2017 15:51:46.226 [4752] 150 Connection accepted
+25/06/2017 15:51:46.241 [4752] 226 Transfer complete
+25/06/2017 15:51:46.241 [4752] noop
+25/06/2017 15:51:46.241 [4752] 220 ok
+25/06/2017 15:51:46.241 [4752] CWD /licheng/
+25/06/2017 15:51:46.241 [4752] 250 CWD command successful."/licheng" is current directory.
+25/06/2017 15:51:46.241 [4752] TYPE I
+25/06/2017 15:51:46.241 [4752] 200 Type set to I
+25/06/2017 15:51:46.241 [4752] PASV
+25/06/2017 15:51:46.241 [4752] 227 Entering Passive Mode(10,132,254,132,81,73).
+25/06/2017 15:51:46.241 [4752] STOR 设备清单.docx
+25/06/2017 15:51:46.241 [4752] 150 Connection accepted
+25/06/2017 15:51:46.241 [4752] 226 Transfer complete.
+25/06/2017 16:01:02.665 [6060] Client disconnected from 10.132.254.132.
+25/06/2017 16:01:41.132 *** END OF APPLICATION ***
